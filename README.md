@@ -12,7 +12,7 @@ Make sure you have the following installed:
 
 `pip install streamlit`
 
-After installing, open up your terminal and `cd` into the directory where you have saved the file and run the follwing command.
+After installing, open up your terminal and `cd` into the directory where you have saved the file and run the following command.
 
 `$> streamlit run opencv_useful_methods.py`
 
