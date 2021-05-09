@@ -4,6 +4,8 @@
 
 This is a personal project built in python3 to demonstrate some useful methods of `opencv` library and how they work in live action using `streamlit`.
 
+![App Demo](demo/demo.gif)
+
 ## Instructions:
 
 Make sure you have the following installed:
